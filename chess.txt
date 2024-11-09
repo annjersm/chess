@@ -1,0 +1,96 @@
+Anderssen's Opening; 1.a3
+Anderssen's Opening: Polish Gambit; 1. a3 a5
+Formation: Hippopotamus Atack; 1. a3 e5 2. b3 d5 3. c3 Nf6 4. d3 Nc6 5. e3 Bd6 6. f3 O-O 7. g3
+Formation: Shy Attack; 1. a3 e5 2. g3 d5 3. Bg2 Nf6 4. d3 Nc6 5. Nd2 Bd6 6. e3 O-O 7. h3
+Van Geet Opening: Reversed Nimzowitch, Battambang Variation; 1. a3 e5 2. Nc3
+Ware Opening; 1. a4
+Ware Opening: Symmetric Variation; 1. a4 a5
+Ware Opening: Wing Gambit; 1. a4 b5 2. axb5 Bb7
+Ware Opening: Cologne Gambit; 1. a4 b6 2. d4 d5 3. Nc3 Nd7
+Ware Opening: Crab Variation; 1. a4;e5;h4
+Ware Opening: Meadow Hay Trap; 1. a4;e5;Ra3
+Polish Opening; 1. b4
+Polish Opening: Symmetrical Variation; 1. b4;b5
+Polish Opening: Birmingham Gambit; 1. b4;c5
+Polish Opening: Outflank Veriation; 1. b4;c6
+Polish Opening: Outflank, Schuehler Gambit; 1. b4;c6;Bb2;a5;b5;cxb5;e4
+Polish Opening: Baltic Defense; 1. b4;d5;Bb2;Bf5
+Polish Opening: Myers Variation; 1. b4;d5;Bb2;c6;a4
+Polish Opening: German Defense; 1. b4;d5;Bb2;Qd6
+Polish Opening: Bugayev Attack; 1. b4;e5;a3
+Polish Opening: Wolferts Gambit; 1. b4;e5;Bb2;c5
+Polish Opening: Czech Defense; 1. b4;e5;Bb2;d6
+Bugayev Advance Variation; 1. b4;e5;Bb2;f6;b5
+Polish Opening: Tartakower Gambit; 1. b4;e5;Bb2;f6;e4
+Polish Opening: Queenside Defense; 1. b4;e6;Bb2;Nf6;b5;a6
+Polish Opening: Queenside Defense, Rooks Exchange Line; 1. b4;e6;Bb2;Nf3;b5;a6;a4;axb5;axb5;Rxa1;Bxa1
+Polish Opening: Queen's Indian Variation; 1. b4;e6;Bb2;Nf3;b5;b6
+Polish Opening: Schiffler-Sokolsky Variation; 1. b4;e6;Bb2;Nf6;b5;d5;e3
+Polish Opening: Dutch Defense; 1. b4;f5
+Polish Opening: Grigorian Variatoin; 1. b4;Nc6
+Polish Opening: King's Indian Variation; 1. b4;Nf6;Bb2;g6
+Polish Opening: King's Indian Variation, Sokolsky Attack; 1. b4;Nf6;Bb2;g6;c4;Bg7;e3;d6;Nf3;O-O;d4
+Polish Opening: King's Indian Variation, Schiffler Attack; 1. b4;Nf6;Bb2;g6;e4
+Polish Opening: Karniewski Variation; 1. b4;Nh6
+Saragossa Openin; 1. c3
+Mieses Openin; 1. d3
+Mieses Opening: Venzoalana Variatio; 1. d3;c5;Nc3;Nc6;g3
+Mieses Opening: Reversed Ra; 1. d3;e5
+Mieses Opening: Reversed Rat, Valencia Variation; 1. d3;e5;Nd2
+Mieses Opening: Myers Spike Attack; 1. d3;e6;Nd4
+Van't Kruijs Openin; 1. e3
+Van't Kruijs Opening: Bouncing Bishop Variation; 1. e3;e5;Bc4;b5;Bb3
+Van't Kruijs Opening: Amsterdam Attack; 1. e3;e5;c4;d6;Nc3;b3;Nf6
+Van't Kruijs Opening: Keoni-Hiva Gambit, Ekolu Variation; 1. e3;e5;Nc3;d5;f4;exf4;Nf3
+Van't Kruijs Opening: Keoni-Hiva Gambit, Alua Variation; 1. e3;e5;Nc3;Nc6;f4;exf4;Nf3
+Van't Kruijs Opening: Keoni-Hiva Gambit, Akahi Variation; 1. e3;e5;Nc3;Nf6;f4;exf4;Nf3
+Barnes Opening; 1. f3
+Barnes Opening: Gedult Gambit; 1. f3;d5;e4;g6;d4;dxe4;c3
+Barnes Opening: Fool's Mate; 1. f3;e5;g3;Qh4
+Barnes Opening: Hammerschlag; 1. f3;e5;Kf2
+Barnes Opening: Gedult Gambit; 1. f3;f5;e4;fxe4;Nc3
+Hungarian Opening; 1. g3
+Hungarian Opening: Sicilian Invitation; 1. g3;c5
+Hungarian Opening: Reversed Modern Defense; 1. g3;d5;Bg2;c5
+Hungarian Opening: Slav Formation; 1. g3;d5;Bg2;c6
+Hungarian Opening: Bücker Gambit; 1. g3;d5;Bg2;e5;b4
+Hungarian Opening: Winterberg Gambit; 1. g3;d5;Bg2;e5;c4;dxc4;b3
+Hungarian Opening: Catalan Formation; 1. g3;d5;Bg2;e6
+Hungarian Opening: Burk Gambit; 1. g3;e5;a3;d5;Nf3;e4;Nh4;Be7;d3
+Hungarian Opening: Reversed Alekhine; 1. g3;e5;Nf3
+Hungarian Opening: Reversed Brooklyn Defense, Brooklyn Benko Gambit; 1. g3;e5;Nf3;e4;Ng1;Nf6;b4
+Hungarian Opening: Reversed Norwegian Defense; 1. g3;e5;Nf3;e4;Nh4
+Hungarian Opening: Paris Gambit; 1. g3;e5;Nh3;d5;f4;Bxh3;exf4;O-O
+Hungarian Opening: Dutch Defense; 1. g3;f5
+Hungarian Opening: Pacman Gambit; 1. g3;f5;e4;fxe4;Qh5+;g6
+Hungarian Opening: Myers Defense; 1. g3;g5
+Hungarian Opening: Symmetrical Variation; 1. g3;g6
+Hungarian Opening: Lasker Simul Special; 1. g3;h5
+Hungarian Opening: Van Kuijk Gambit; 1. g3;h5;Nf3;h4
+Hungarian Opening: Asten Gambit; 1. g3;h5;Nf3;h4
+Hungarian Opening: Indian Defense; 1. g3;Nf6
+Grob Opening; 1. g4
+Grob Opening: Grob Gambit; 1. g4;d5;Bg2
+Grob Opening: Grob Gambit: Fritz Gambit; 1. g4;d5;Bg2;Bxg4;c4
+Grob Opening: Romford Countergambit; 1. g4;d5;Bg2;Bxg4;c4;d4
+Grob Opening: Grob Gambit, Fritz Gambit, Romford Countergambit; 1. g4;d5;Bg2;Bxg4;c4;d4;Bxb7;Nd7;Bxa8;Qxa8
+Grob Opening: Grob Gambit Declined; 1. g4;d5;Bg2;c6
+Grob Opening: Grob Gambit, Richter-Grob Gambit; 1. g4;d5;Bg2;c6;c4;dxc4;b3
+Grob Opening: Spike Attack; 1. g4;d5;Bg2;c6;g5
+Grob Opening: Grob Gambit, Keres Gambit; 1. g4;d5;Bg2;e5;d4;exd4;c3
+Grob Opening: Grob Gambit, Basman Gambit; 1. g4;d5;Bg2;h5;gxh5
+Grob Opening: Zilbermints Gambit; 1. g4;d5;e4;dxe4;Nc3
+Grob Opening: Zilbermints Gambit, Zilbermints-Hartlaub Gambit; 1. g4;d5;e4;dxe4;Nc3;e5;d3
+Grob Opening: Zilbermints Gambit, Sckiller Defense; 1. g4;d5;e4;dxe4;Nc3;h5
+Grob Opening: Keene Defense; 1. g4;d5;h3;e5;Bg2;c6
+Grob Opening: Keene Degense, Main Line; 1. g4;d5;h3;e5;Bg2;c6;d4;e4;c4;Bd6;Nc6;Ne7
+Grob Opening: Spike , Hurst Attack; 1. g4;e5;Bg2;d5;c4
+Grob Opening: London Defense; 1. g4;e5;h3;Nc6
+Grob Opening: Alessi Gambit; 1. g4;f5
+Grob Opening: Double Grob; 1. g4;g5
+Grob Opening: Double Grob, Coca-Cola Gambit; 1. g4;g5;f4
+Clemenz Opening; 1. h3
+Creepy Crawly Formation: Classical Defense; 1. h3;d5;a3;e5
+Global Opening; 1. h3;e5;a3
+Clemenz Opening: Spike Lee Gambit; 1. h3;h5;g4
+Kádas Opening; 1. h4
